@@ -1,3 +1,4 @@
 # project1
-first git repository
+This first git repository.
+<br>
 Author-Jyoti Mahto
